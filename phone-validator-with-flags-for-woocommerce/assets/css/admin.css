@@ -1,0 +1,81 @@
+/* ============================================
+   PVFWC - Admin Settings Styles
+   ============================================ */
+
+.pvfwc-kofi-box {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border: 1px solid #e0d4c4;
+    border-radius: 8px;
+    background: #fff8f0;
+    padding: 20px 24px;
+}
+
+.pvfwc-kofi-inner {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.pvfwc-kofi-icon {
+    font-size: 36px;
+    line-height: 1;
+    flex-shrink: 0;
+}
+
+.pvfwc-kofi-text {
+    flex: 1;
+    min-width: 200px;
+}
+
+.pvfwc-kofi-text strong {
+    font-size: 15px;
+    display: block;
+    margin-bottom: 4px;
+    color: #1d2327;
+}
+
+.pvfwc-kofi-text p {
+    margin: 0;
+    color: #555;
+    font-size: 13px;
+}
+
+.pvfwc-kofi-btn {
+    display: inline-block;
+    background: #ff5f5f;
+    color: #fff !important;
+    text-decoration: none !important;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 14px;
+    white-space: nowrap;
+    transition: background 0.2s ease;
+    flex-shrink: 0;
+}
+
+.pvfwc-kofi-btn:hover {
+    background: #e04e4e;
+}
+
+/* Notice Ko-fi في لوحة التحكم */
+.pvfwc-kofi-notice {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    padding: 12px 16px;
+}
+
+.pvfwc-kofi-notice p {
+    margin: 0;
+    flex: 1;
+    min-width: 200px;
+}
+
+.pvfwc-kofi-notice .pvfwc-kofi-btn {
+    font-size: 13px;
+    padding: 8px 16px;
+}

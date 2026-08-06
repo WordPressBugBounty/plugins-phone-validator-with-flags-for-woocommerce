@@ -1,0 +1,26 @@
+/* ============================================
+   PVFWC - Frontend Styles
+   ============================================ */
+
+.iti {
+    width: 100%;
+    display: block;
+}
+
+.iti__tel-input {
+    width: 100%;
+    padding: 8px;
+}
+
+.iti--allow-dropdown input[type=tel] {
+    width: 100%;
+}
+
+.pvfwc-error-msg {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.pvfwc-error-msg.wc-block-components-notice-banner {
+    margin-top: 12px;
+}

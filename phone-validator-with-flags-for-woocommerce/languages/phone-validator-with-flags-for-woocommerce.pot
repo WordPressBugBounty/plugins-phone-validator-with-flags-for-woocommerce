@@ -1,0 +1,204 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Phone Validator with Flags for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-05-25 06:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.4; wp-7.0; php-8.2.12\n"
+"X-Domain: phone-validator-with-flags-for-woocommerce"
+
+#: includes/functions.php:49
+msgid "- If this plugin is useful to you, consider supporting its development!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds a country flag and phone validation to the WooCommerce checkout phone "
+"field. Supports Classic and Block Checkout."
+msgstr ""
+
+#: includes/class-settings.php:52
+msgid "All Countries"
+msgstr ""
+
+#: includes/class-settings.php:17
+msgid "Auto (WooCommerce Store Country)"
+msgstr ""
+
+#: includes/class-settings.php:84
+msgid "Billing Phone"
+msgstr ""
+
+#: includes/class-settings.php:133
+msgid "Browser Alert (legacy)"
+msgstr ""
+
+#: includes/class-settings.php:175
+msgid "Buy me a coffee"
+msgstr ""
+
+#: includes/functions.php:53
+msgid "Buy me a coffee on Ko-fi"
+msgstr ""
+
+#: includes/class-settings.php:46
+msgid "Country Source"
+msgstr ""
+
+#: includes/class-settings.php:140
+msgid "Custom Error Message"
+msgstr ""
+
+#: includes/class-settings.php:36
+msgid "Default Country"
+msgstr ""
+
+#: includes/class-settings.php:145
+msgid "e.g. Please enter a valid phone number."
+msgstr ""
+
+#: includes/class-settings.php:85
+msgid "Enable on billing phone field at checkout."
+msgstr ""
+
+#: includes/class-settings.php:93
+msgid "Enable on shipping phone field at checkout (if visible)."
+msgstr ""
+
+#: includes/class-settings.php:101
+msgid "Enable on the phone field in My Account → Address pages."
+msgstr ""
+
+#: includes/class-settings.php:171
+msgid "Enjoying the plugin?"
+msgstr ""
+
+#: includes/class-settings.php:127
+msgid "Error Message Style"
+msgstr ""
+
+#: includes/functions.php:23
+msgid "for over 7 days! If you love the plugin, please leave a"
+msgstr ""
+
+#: includes/class-settings.php:30
+msgid "General Settings"
+msgstr ""
+
+#: includes/class-settings.php:128
+msgid "How to display the validation error to the customer."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://mokhtarbensaid.com"
+msgstr ""
+
+#: includes/class-settings.php:172
+msgid ""
+"If this plugin saves you time, consider supporting its development with a "
+"coffee. It keeps the updates coming!"
+msgstr ""
+
+#: includes/class-settings.php:132
+msgid "Inline (like WooCommerce notices)"
+msgstr ""
+
+#: includes/class-settings.php:141
+msgid "Leave empty to use the default message."
+msgstr ""
+
+#. Author of the plugin
+msgid "Mokhtar Bensaid"
+msgstr ""
+
+#: includes/class-settings.php:100
+msgid "My Account Page"
+msgstr ""
+
+#: includes/functions.php:57
+msgid "No thanks"
+msgstr ""
+
+#: includes/class-settings.php:120
+msgid ""
+"Only validate if WooCommerce marks the phone field as required. If optional "
+"and left empty, no validation is triggered."
+msgstr ""
+
+#: includes/class-settings.php:78
+msgid "Phone Fields"
+msgstr ""
+
+#: includes/class-settings.php:8
+msgid "Phone Validator"
+msgstr ""
+
+#. Name of the plugin
+#: includes/functions.php:22 includes/functions.php:48
+msgid "Phone Validator with Flags for WooCommerce"
+msgstr ""
+
+#: includes/class-blocks.php:86 includes/class-phone-validator-flags.php:86
+msgid "Please enter a valid phone number including the country code."
+msgstr ""
+
+#: includes/functions.php:25
+msgid "positive review"
+msgstr ""
+
+#: includes/class-settings.php:59
+msgid "Preferred Countries"
+msgstr ""
+
+#: includes/class-settings.php:119
+msgid "Respect WooCommerce Validation"
+msgstr ""
+
+#: includes/class-settings.php:67
+msgid "Select countries..."
+msgstr ""
+
+#: includes/class-settings.php:92
+msgid "Shipping Phone"
+msgstr ""
+
+#: includes/class-phone-validator-flags.php:114
+msgid "Shipping phone"
+msgstr ""
+
+#: includes/class-settings.php:37
+msgid "The country selected by default when the phone field loads."
+msgstr ""
+
+#: includes/class-settings.php:60
+msgid "These countries will appear at the top of the dropdown list."
+msgstr ""
+
+#: includes/functions.php:27
+msgid "to help us improve. Thank you! ❤️"
+msgstr ""
+
+#: includes/class-settings.php:113
+msgid "Validation"
+msgstr ""
+
+#: includes/class-settings.php:47
+msgid "Which countries appear in the dropdown."
+msgstr ""
+
+#: includes/class-settings.php:51
+msgid "WooCommerce Selling Locations"
+msgstr ""
+
+#: includes/functions.php:21
+msgid "🥰 You have used:"
+msgstr ""
